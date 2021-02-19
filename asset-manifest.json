@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/switching-app/static/css/main.2811580f.chunk.css",
+    "main.js": "/switching-app/static/js/main.40f85710.chunk.js",
+    "main.js.map": "/switching-app/static/js/main.40f85710.chunk.js.map",
+    "runtime-main.js": "/switching-app/static/js/runtime-main.a7398240.js",
+    "runtime-main.js.map": "/switching-app/static/js/runtime-main.a7398240.js.map",
+    "static/js/2.40fddef8.chunk.js": "/switching-app/static/js/2.40fddef8.chunk.js",
+    "static/js/2.40fddef8.chunk.js.map": "/switching-app/static/js/2.40fddef8.chunk.js.map",
+    "index.html": "/switching-app/index.html",
+    "precache-manifest.3bd5ad8d2591a9eb2c618610db5e66f6.js": "/switching-app/precache-manifest.3bd5ad8d2591a9eb2c618610db5e66f6.js",
+    "service-worker.js": "/switching-app/service-worker.js",
+    "static/css/main.2811580f.chunk.css.map": "/switching-app/static/css/main.2811580f.chunk.css.map",
+    "static/js/2.40fddef8.chunk.js.LICENSE.txt": "/switching-app/static/js/2.40fddef8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7398240.js",
+    "static/js/2.40fddef8.chunk.js",
+    "static/css/main.2811580f.chunk.css",
+    "static/js/main.40f85710.chunk.js"
+  ]
+}
