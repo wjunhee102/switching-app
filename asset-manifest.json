@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/switching-app/static/css/main.2811580f.chunk.css",
-    "main.js": "/switching-app/static/js/main.a91f6d87.chunk.js",
-    "main.js.map": "/switching-app/static/js/main.a91f6d87.chunk.js.map",
+    "main.js": "/switching-app/static/js/main.62741c91.chunk.js",
+    "main.js.map": "/switching-app/static/js/main.62741c91.chunk.js.map",
     "runtime-main.js": "/switching-app/static/js/runtime-main.a7398240.js",
     "runtime-main.js.map": "/switching-app/static/js/runtime-main.a7398240.js.map",
-    "static/js/2.40fddef8.chunk.js": "/switching-app/static/js/2.40fddef8.chunk.js",
-    "static/js/2.40fddef8.chunk.js.map": "/switching-app/static/js/2.40fddef8.chunk.js.map",
+    "static/js/2.d6a040bf.chunk.js": "/switching-app/static/js/2.d6a040bf.chunk.js",
+    "static/js/2.d6a040bf.chunk.js.map": "/switching-app/static/js/2.d6a040bf.chunk.js.map",
     "index.html": "/switching-app/index.html",
-    "precache-manifest.e5a0a4f5df38fed128f5d448a686427a.js": "/switching-app/precache-manifest.e5a0a4f5df38fed128f5d448a686427a.js",
+    "precache-manifest.294560053ba21e52d9098f9547b50e11.js": "/switching-app/precache-manifest.294560053ba21e52d9098f9547b50e11.js",
     "service-worker.js": "/switching-app/service-worker.js",
     "static/css/main.2811580f.chunk.css.map": "/switching-app/static/css/main.2811580f.chunk.css.map",
-    "static/js/2.40fddef8.chunk.js.LICENSE.txt": "/switching-app/static/js/2.40fddef8.chunk.js.LICENSE.txt"
+    "static/js/2.d6a040bf.chunk.js.LICENSE.txt": "/switching-app/static/js/2.d6a040bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a7398240.js",
-    "static/js/2.40fddef8.chunk.js",
+    "static/js/2.d6a040bf.chunk.js",
     "static/css/main.2811580f.chunk.css",
-    "static/js/main.a91f6d87.chunk.js"
+    "static/js/main.62741c91.chunk.js"
   ]
 }

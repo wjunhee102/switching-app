@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f545b822400ba15f81cebac2d4d3a68",
+    "revision": "626584dd9454f036d8c5ed691a2ecc55",
     "url": "/switching-app/index.html"
   },
   {
-    "revision": "fe2379cd9bfba47b20f1",
+    "revision": "b33c1219646c2485d72b",
     "url": "/switching-app/static/css/main.2811580f.chunk.css"
   },
   {
-    "revision": "2bfb3bf9635dbfc8dd6d",
-    "url": "/switching-app/static/js/2.40fddef8.chunk.js"
+    "revision": "4ef40613662a30257c83",
+    "url": "/switching-app/static/js/2.d6a040bf.chunk.js"
   },
   {
     "revision": "f576af3254df0679363d3e6ffe804e36",
-    "url": "/switching-app/static/js/2.40fddef8.chunk.js.LICENSE.txt"
+    "url": "/switching-app/static/js/2.d6a040bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe2379cd9bfba47b20f1",
-    "url": "/switching-app/static/js/main.a91f6d87.chunk.js"
+    "revision": "b33c1219646c2485d72b",
+    "url": "/switching-app/static/js/main.62741c91.chunk.js"
   },
   {
     "revision": "074a0e5c1fe66255ad37",
